@@ -1,0 +1,156 @@
+{
+  "products": [
+    {
+      "titleAr": "منتج SHEIN فاخر عالي الجودة - إصدار 2026",
+      "titleEn": "SHEIN Premium Fashion Item - 2026 Edition",
+      "descriptionAr": "قطعة أنيقة وعصرية تم اختيارها بعناية من SHEIN بمواصفات ممتازة ومناسبة لجميع المناسبات.",
+      "descriptionEn": "Carefully curated fashion item from SHEIN with high quality materials and modern fitting.",
+      "price": 119,
+      "originalPrice": 169,
+      "discountPercent": 30,
+      "mainImage": "/src/assets/images/category_women_dresses_1794426499182.jpg",
+      "images": [
+        "/src/assets/images/category_women_dresses_1794426499182.jpg",
+        "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=800&q=80"
+      ],
+      "categorySlug": "women-dresses",
+      "colors": [
+        "#000000",
+        "#FFFFFF",
+        "#D4AF37"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "originalSheinUrl": "https://m.shein.com/ar-en/SHEIN-Clasi-Women-s-Solid-Color-Thermal-Lined-Hoodie-With-Pockets-Regular-Fit-Casual-Everyday-Jacket-Autumn-Winter-p-256760958.html?attr_ids=&detailBusinessFrom=0-1_256760958%257C0-2&imgRatio=3-4&isAppointMall=&mallCode=1&pageListType=4&showFeedbackRec=1&src_identifier=on%253DCATEGORY_RECOMMEND_COMPONENT%2560cn%253Dsbc%2560hz%253D-%2560jc%253Dreal_2030%2560ps%253D3_1_1&src_module=all&src_tab_page_id=page_home1794429086072",
+      "affiliateUrl": "https://onelink.shein.com/60/67x3di5jlqjx?ismg_ol=23rBojHPZcg_01_KOC-Cr-p-256760958.html?attr_ids=&detailBusinessFrom=0-1_256760958%257C0-2&imgRatio=3-4&isAppointMall=&mallCode=1&pageListType=4&showFeedbackRec=1&src_identifier=on%253DCATEGORY_RECOMMEND_COMPONENT%2560cn%&aff_id=SHEIN_SELECT_SA",
+      "sku": "SH-884917",
+      "isFeatured": true,
+      "isPublished": true,
+      "id": "prod-1794429230345",
+      "viewsCount": 0,
+      "clicksCount": 1,
+      "rating": 4.8,
+      "reviewCount": 1,
+      "createdAt": "2026-11-11T20:33:50.345Z",
+      "updatedAt": "2026-11-11T20:33:50.345Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat-1",
+      "slug": "women-dresses",
+      "nameAr": "فساتين نسائية",
+      "nameEn": "Women Dresses",
+      "image": "/src/assets/images/category_women_dresses_1794426499182.jpg",
+      "order": 1
+    },
+    {
+      "id": "cat-2",
+      "slug": "men-streetwear",
+      "nameAr": "ملابس رجالية",
+      "nameEn": "Men Clothing",
+      "image": "/src/assets/images/category_men_streetwear_1794426499892.jpg",
+      "order": 2
+    },
+    {
+      "id": "cat-3",
+      "slug": "tops-jackets",
+      "nameAr": "بلوزات وجاكيتات",
+      "nameEn": "Tops & Jackets",
+      "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=800&q=80",
+      "order": 3
+    },
+    {
+      "id": "cat-4",
+      "slug": "shoes-footwear",
+      "nameAr": "أحذية وصنادل",
+      "nameEn": "Shoes & Footwear",
+      "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=800&q=80",
+      "order": 4
+    },
+    {
+      "id": "cat-5",
+      "slug": "bags-accessories",
+      "nameAr": "حقائب وإكسسوارات",
+      "nameEn": "Bags & Accessories",
+      "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=800&q=80",
+      "order": 5
+    },
+    {
+      "id": "cat-6",
+      "slug": "beauty-makeup",
+      "nameAr": "تجميل وعناية",
+      "nameEn": "Beauty & Care",
+      "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80",
+      "order": 6
+    }
+  ],
+  "banners": [
+    {
+      "id": "ban-1",
+      "titleAr": "مجموعة الصيف والربيع 2026",
+      "titleEn": "Spring Summer Collection 2026",
+      "subtitleAr": "خصومات حصرية حتى 50% على فساتين وأطقم شي إن الأكثر مبيعاً",
+      "subtitleEn": "Exclusive discounts up to 50% on top selling SHEIN dresses and sets",
+      "image": "/src/assets/images/hero_summer_fashion_1794426498348.jpg",
+      "linkUrl": "/#featured",
+      "ctaTextAr": "تسوق التشكيلة الآن",
+      "ctaTextEn": "Shop Collection Now",
+      "isActive": true,
+      "order": 1
+    },
+    {
+      "id": "ban-2",
+      "titleAr": "أزياء الخريف وتشكيلة الطبقات",
+      "titleEn": "Autumn Layering & Elegance",
+      "subtitleAr": "أرقى الجاكيتات والمعاطف الأنيقة بإطلالة عصرية ومميزة",
+      "subtitleEn": "Chic trench coats and cozy knitwear for the modern season look",
+      "image": "/src/assets/images/hero_autumn_collection_1794426498627.jpg",
+      "linkUrl": "/#tops-jackets",
+      "ctaTextAr": "استكشف المعاطف",
+      "ctaTextEn": "Explore Coats",
+      "isActive": true,
+      "order": 2
+    }
+  ],
+  "settings": {
+    "storeNameAr": "حجي لتجارة الكترونية ",
+    "storeNameEn": "Hajji E-commerce ",
+    "storeTaglineAr": "دليلك الموثوق لأحدث صيحات الأزياء والعروض من SHEIN",
+    "storeTaglineEn": "Your premier source for SHEIN trend curation & deals",
+    "logoUrl": "",
+    "primaryColor": "#000000",
+    "defaultAffiliateId": "SHEIN_SELECT_SA",
+    "currency": "USD",
+    "language": "ar",
+    "promoBarTextAr": "🔥 خصم حقيقي يصل إلى 50% | تصفح وشاهد المنتج مباشرة عبر رابط العمولة المعتمد من SHEIN",
+    "promoBarTextEn": "🔥 Up to 50% Off | View and shop verified products directly via official SHEIN affiliate links",
+    "seoMetaTitleAr": "We specialize in e-commerce and Shen product brokerage, offering the finest options at the best competitive prices. ",
+    "seoMetaTitleEn": "SHEIN Select | Official SHEIN Affiliate Fashion Store",
+    "seoMetaDescriptionAr": "Browse the latest and most beautiful formulations, dresses, shoes and clothing from Shein at excellent discounts and prices.\nWe are the Shein Brokers in Lebanon secure all your requirements in favor of a sqq and a commission. ",
+    "seoMetaDescriptionEn": "Curated collection of SHEIN dresses, footwear, menswear and accessories with verified affiliate links and top deals.",
+    "affiliateNoticeAr": "تنبيه هامن: هذا الموقع يقدم خدمة التنسيق والتنسيق بالعمولة المعتمد. عند ضغطك على \"تسوق الآن\"، سيتم تحويلك مباشرة لموقع SHEIN لإكمال عملية الشراء بأمان.",
+    "affiliateNoticeEn": "Notice: This platform features curated affiliate selections. Clicking \"Shop Now\" redirects you securely to SHEIN to complete your order.",
+    "adminPasswordHash": "admin123",
+    "contactEmail": "contact@sheinselect.store",
+    "socialLinks": {
+      "instagram": "https://instagram.com/shein",
+      "tiktok": "https://tiktok.com/@shein",
+      "snapchat": "https://snapchat.com/add/shein",
+      "twitter": "https://twitter.com/shein"
+    }
+  },
+  "clicks": [
+    {
+      "id": "click-1794429340145",
+      "productId": "prod-1794429230345",
+      "productTitle": "منتج SHEIN فاخر عالي الجودة - إصدار 2026",
+      "timestamp": "2026-11-11T20:35:40.145Z",
+      "referrer": "https://ais-dev-hkcpy3r74kia4zazervur7-933966179585.europe-west2.run.app/"
+    }
+  ]
+}

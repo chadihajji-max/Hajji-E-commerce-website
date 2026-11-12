@@ -1,0 +1,6 @@
+{
+  "name": "SHEIN Select – Premium Affiliate E-commerce Store",
+  "description": "متجر إلكتروني احترافي لعرض وتصفح أفضل منتجات SHEIN بنظام التسويق بالعمولة (Affiliate) مع تجربة تسوق فخمة ومتطورة ودعم كامل للغتين العربية والإنجليزية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
